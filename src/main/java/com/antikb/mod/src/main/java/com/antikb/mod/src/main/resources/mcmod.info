@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "antikb",
+    "name": "AntiKnockback",
+    "description": "Server-wide knockback reduction/removal for Minecraft 1.8.9 Forge servers. Configurable via config/antikb.cfg.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["you"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
